@@ -95,35 +95,40 @@ This analysis addresses the following questions:
 ---
 ##  Visualizations
 
-### Fraud by Merchant
+### Fraud vs Non-Fraud Amount
+<img width="724" height="353" alt="Fraud vs Non Fraud Amount" src="https://github.com/user-attachments/assets/d766daee-260a-4b35-88c4-d363f0eebfe5" />
 
-![Fraud by Merchant]
+*Shows that Fraudulent transactions involve mostly small amounts.*
+
+### Fraud by Category
+<img width="794" height="498" alt="Number of Fraud Cases by Category" src="https://github.com/user-attachments/assets/c4c8a119-1f38-4f2b-8d6d-3f4bb3802dc0" />
+
+*Highlights categories with highest fraud rates.*
+### Fraud by Merchants
+<img width="786" height="473" alt="Top frudulent Marchants" src="https://github.com/user-attachments/assets/05b07504-89ac-4756-8321-6f121a7b5dfe" />
+
 *Shows the top merchants where fraud occurs most frequently.*
 
-### Fraud by Category
-![Fraud by Category](images/fraud_by_category.png)  
-*Highlights categories with highest fraud rates.*
 
 ### Fraud by Country
-![Fraud by Country](images/fraud_by_country.png)  
+<img width="615" height="401" alt="Fraud cases by country" src="https://github.com/user-attachments/assets/3e10b8ac-ba39-441a-8023-73d4367ec3ec" />
+
 *Displays geographic fraud patterns.*
 
-### Fraud by Day of Week
-![Fraud by Day](images/fraud_by_day.png)  
-*Shows which days have the most fraudulent transactions.*
+### Correlation Heatmap
+<img width="675" height="351" alt="heatmap" src="https://github.com/user-attachments/assets/04372d8d-d192-4d9d-8bef-248ee5d0732f" />
 
-### Fraud by Category
-![Fraud by Category](images/fraud_by_category.png)  
-*Highlights categories with highest fraud rates.*
+*Shows if there is any relationship in the numeric variables.*
 
-### Fraud by Country
-![Fraud by Country](images/fraud_by_country.png)  
-*Displays geographic fraud patterns.*
+### Fraud by Balance vs Amount
+<img width="693" height="359" alt="Balance Vs amount" src="https://github.com/user-attachments/assets/c01d5c10-f30d-4f42-9a54-0c4a7c79794a" />
+
+*Displays if amount or balance predict fraud.*
 
 ### Fraud by Day of Week
-![Fraud by Day](images/fraud_by_day.png)  
+<img width="635" height="372" alt="Fraud by days of the week" src="https://github.com/user-attachments/assets/14f4c74e-facc-47f5-98f8-d8e15475c5ae" />
+ 
 *Shows which days have the most fraudulent transactions.*
-
 
 ---
 
