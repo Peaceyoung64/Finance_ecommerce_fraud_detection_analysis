@@ -111,6 +111,18 @@ This analysis addresses the following questions:
 ![Fraud by Day](images/fraud_by_day.png)  
 *Shows which days have the most fraudulent transactions.*
 
+### Fraud by Category
+![Fraud by Category](images/fraud_by_category.png)  
+*Highlights categories with highest fraud rates.*
+
+### Fraud by Country
+![Fraud by Country](images/fraud_by_country.png)  
+*Displays geographic fraud patterns.*
+
+### Fraud by Day of Week
+![Fraud by Day](images/fraud_by_day.png)  
+*Shows which days have the most fraudulent transactions.*
+
 
 ---
 
