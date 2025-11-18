@@ -11,11 +11,8 @@
 8. [Conclusion](#conclusion)
 9. [Recommendations](#recommendations)
    
-
-
 ## Project Overview
-This project analyzes financial e-commerce transactions to detect fraud patterns, assess risk exposure, and provide actionable insights.  
-The dataset contains **6,055 cleaned transactions**, and although the overall fraud rate is low, analyzing these rare events is crucial because even a few fraudulent transactions can have a significant financial impact.  The analysis explores trends across customers, merchants, transaction amounts, balances, categories, and geographies, helping businesses proactively reduce fraud.  
+This project focuses on analyzing e-commerce financial transactions to detect fraud patterns, assess risk exposure, and generate actionable insights for decision-making. The dataset contains 6,055 transactions. The analysis explores trends across customers, merchants, transaction amounts, balances, categories, and geographies, helping businesses proactively reduce fraud.
 
 ---
 **Objectives:**
