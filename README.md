@@ -96,7 +96,8 @@ This analysis addresses the following questions:
 ##  Visualizations
 
 ### Fraud by Merchant
-![Fraud by Merchant](images/fraud_by_merchant.png)  
+
+![Fraud by Merchant]
 *Shows the top merchants where fraud occurs most frequently.*
 
 ### Fraud by Category
